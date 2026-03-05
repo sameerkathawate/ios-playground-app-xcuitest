@@ -1,0 +1,4 @@
+//
+//  LaunchManager.swift
+//  XCUITestPlaygroundApp
+//
