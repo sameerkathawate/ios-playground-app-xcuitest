@@ -28,6 +28,7 @@ struct ControlsView: View {
 
                         TextField("Enter text", text: $textValue)
                             .accessibilityIdentifier("controls_textfield")
+                            .tint(.blue)
 
                         HStack {
 
@@ -48,6 +49,7 @@ struct ControlsView: View {
                                     .foregroundColor(.gray)
                             }
                             .accessibilityIdentifier("controls_show_password")
+                            .tint(.blue)
                         }
                     }
                 }

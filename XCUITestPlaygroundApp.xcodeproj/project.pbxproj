@@ -22,6 +22,7 @@
 		1F78BB842F55349F0066DF3C /* PerformanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F78BB832F55349E0066DF3C /* PerformanceTests.swift */; };
 		1F78BB892F5534BF0066DF3C /* Accessibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F78BB882F5534BE0066DF3C /* Accessibility.swift */; };
 		1FAEB86A2F59240D002F4C4C /* TestHooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAEB8692F59240D002F4C4C /* TestHooks.swift */; };
+		1FAEB8702F5D045E002F4C4C /* ControlsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAEB86F2F5D0457002F4C4C /* ControlsTests.swift */; };
 		1FBEA3992F58EC76002F6012 /* PerformanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F762F7D2F563FB4005FD4EB /* PerformanceView.swift */; };
 		1FBEA39A2F58EC76002F6012 /* PermissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F762F7B2F563F9B005FD4EB /* PermissionView.swift */; };
 		1FBEA39B2F58EC76002F6012 /* AsyncNetworkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F762F7A2F563F8F005FD4EB /* AsyncNetworkView.swift */; };
@@ -92,6 +93,7 @@
 		1F78BB832F55349E0066DF3C /* PerformanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformanceTests.swift; sourceTree = "<group>"; };
 		1F78BB882F5534BE0066DF3C /* Accessibility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Accessibility.swift; sourceTree = "<group>"; };
 		1FAEB8692F59240D002F4C4C /* TestHooks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestHooks.swift; sourceTree = "<group>"; };
+		1FAEB86F2F5D0457002F4C4C /* ControlsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlsTests.swift; sourceTree = "<group>"; };
 		1FBEA3A82F58ECD9002F6012 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		1FBEA3AA2F58ECE6002F6012 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1FBEA3AD2F590EBB002F6012 /* PictureViewerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureViewerView.swift; sourceTree = "<group>"; };
@@ -291,6 +293,7 @@
 		1F78BB6B2F5534070066DF3C /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				1FAEB86F2F5D0457002F4C4C /* ControlsTests.swift */,
 				1F762F852F564061005FD4EB /* AsyncTests.swift */,
 				1F78BB832F55349E0066DF3C /* PerformanceTests.swift */,
 				1F78BB812F55348F0066DF3C /* GestureTests.swift */,
@@ -504,6 +507,7 @@
 				1F762F822F564028005FD4EB /* Waits.swift in Sources */,
 				1F78BB892F5534BF0066DF3C /* Accessibility.swift in Sources */,
 				1F78BB772F55344F0066DF3C /* ToggleTests.swift in Sources */,
+				1FAEB8702F5D045E002F4C4C /* ControlsTests.swift in Sources */,
 				1F762F802F563FFA005FD4EB /* AppNavigator.swift in Sources */,
 				1F78BB722F5534370066DF3C /* LaunchManager.swift in Sources */,
 				1F78BB802F5534890066DF3C /* GlassTests.swift in Sources */,
