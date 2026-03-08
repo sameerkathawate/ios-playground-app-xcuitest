@@ -2,6 +2,8 @@
 
 **App is built using mostly AI but the way I want it!! For me to practice testing using XCUITest and Swift and I am adding tests myself for my learning.**
 
+**Please help if you know a better way of creating glass effects for this test app**
+
 A SwiftUI test sandbox designed to validate XCUITest interaction patterns:
 - SwiftUI controls (Toggle, Slider, Picker, etc.)
 - Material / "glass" UI hit-testing
