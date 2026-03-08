@@ -1,6 +1,6 @@
 # XCUITestPlayground
 
-App is built using mostly AI but the way I want it!! For me to practice testing using XCUITest and Swift and I am adding tests myself for my learning.
+**App is built using mostly AI but the way I want it!! For me to practice testing using XCUITest and Swift and I am adding tests myself for my learning.**
 
 A SwiftUI test sandbox designed to validate XCUITest interaction patterns:
 - SwiftUI controls (Toggle, Slider, Picker, etc.)
