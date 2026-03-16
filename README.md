@@ -1,8 +1,8 @@
 # XCUITestPlayground
 
-**App is built using mostly AI but the way I want it!! For me to practice testing using XCUITest and Swift and I am adding tests myself for my learning.**
+**Building app using AI with iOS features so that i can focus on practice testing using XCUITest and Swift and I am adding tests for my learning.**
 
-**Please help if you know a better way of creating glass effects for this test app**
+**Please contribute if you know a better way of creating glass effects for this test app**
 
 A SwiftUI test sandbox designed to validate XCUITest interaction patterns:
 - SwiftUI controls (Toggle, Slider, Picker, etc.)
